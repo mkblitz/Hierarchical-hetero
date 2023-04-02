@@ -1,4 +1,4 @@
-# Hierarchical-hetero by Toviah Moldwin, Menachem Kalmenson, and Idan Segev. 2022.
+# Hierarchical-hetero by Toviah Moldwin, Menachem Kalmenson, and Idan Segev, 2022.
 
 All code to run the experiments found in "Asymmetric voltage attenuation in dendrites can enable hierarchical heterosynaptic plasticity" can be found here.
 
