@@ -11,5 +11,5 @@ Example: to run the experiment that creates the traces seen in Figure 3A2-A5, op
 
 It is suggested to download all the scripts in the main file, as they are used in the running of the experiments.
 
-**Script decriptions:**
+**_Script decriptions:_**
 
