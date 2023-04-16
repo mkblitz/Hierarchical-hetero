@@ -13,5 +13,7 @@ It is suggested to download all the scripts in the main file, as they are used i
 
 ## **_Script decriptions:_**
 
-**cell_parent:** Script containing the class _cell_. 
-
+**cell_parent:** Script containing the class _cell_. Object functions include methods to add synapses, measure transfer resistances, etc.
+**ball_and_stick:** Parent class for ball and stick model neuron (soma and single dendrite). You can see here a list of morphological and biophysical parameters
+relevant to this model, including nseg for number of segments on the stick (dendrite), lengths, diameters, etc.
+**ball_and_many_stick:** Like ball_and_stick, but for the many dendrite model.
