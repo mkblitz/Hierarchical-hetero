@@ -20,3 +20,6 @@ It is suggested to download all the scripts in the main file, as they are used i
 **ball_and_many_sticks:** Like ball_and_stick, but for the many dendrite model.
 
 **L5PC:** Parent class for the morphologically detailed layer 5 pyramidal neuron. Morphology comes from folder named _morphologies_.
+
+**model_run:** Script we used to run many of our experiments. You do not need to use this script, unless you want to change additional parameters not accessible by the _experiment_scripts_.
+
