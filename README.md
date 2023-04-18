@@ -2,7 +2,7 @@
 
 All code to run the experiments found in "Asymmetric voltage attenuation in dendrites can enable hierarchical heterosynaptic plasticity" can be found here.
 
-For help downloading and running NEURON, see Oran Amsalem's tutorial here: https://github.com/orena1/NEURON_tutorial
+For help downloading and running NEURON, see Oren Amsalem's tutorial here: https://github.com/orena1/NEURON_tutorial
 
 To run an experiment, start by downloading the folder titled 'experiment_scripts', and choose the experiment you want to run. 
 Name of script will be the name of the figure it is presented in.
