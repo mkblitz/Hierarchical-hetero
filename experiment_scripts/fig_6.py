@@ -14,8 +14,11 @@ max_synapses = 40
 # syn_branches = [3,1,4]#horizontal example using other branches 
 syn_branches = [7,3,8]#horizontal
 
+theta_d_GB = 0.5 #for 6D-F set: 0.2
+theta_p_GB = 1 #for 6D-F set: 0.4
+
 print('start')
-bpc.run_experiment(max_synapses, syn_branches, theta_d_GB = 0.2, theta_p_GB = 0.4)
+bpc.run_experiment(max_synapses, syn_branches, theta_d_GB = theta_d_GB, theta_p_GB = theta_p_GB)
 print('end')
 
 
