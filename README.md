@@ -33,6 +33,3 @@ It is suggested to download all the scripts in the main file, as they are used i
 to use this script, unless you want to change additional parameters not accessible by the _experiment_scripts_.
 
 **fig_xx:** Scripts used to run actual experiments and create the figures. These are all found in the folder _experiment_scripts_, and give the option to change several - but not all - the parameters. To change additional parameters you must open scripts mentioned above. xx just a general placeholder for actual figure numbers, e.g. fig_2b_2c, fig_3a_2to5, etc.
-
-**fig_2b_23_hay:** Like fig_2b_23, but using the Hay model cell and not the ball and stick model cell.
-
