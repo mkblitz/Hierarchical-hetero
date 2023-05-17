@@ -1,1 +1,0 @@
-MODOBJFILES= CaDynamics_E2.o Ca_HVA.o Ca_LVAst.o GluSynapse.o Ih.o Im.o K_Pst.o K_Tst.o NaTa_t.o NaTs2_t.o Nap_Et2.o ProbAMPA.o ProbAMPANMDA.o ProbAMPANMDA2_ratio.o ProbAMPANMDA_EMS.o ProbGABAA.o ProbGABAAB_EMS.o ProbGABAA_EMS.o ProbNMDA.o SK_E2.o SKv3_1.o double_exp_AMPA_NMDA.o double_exp_AMPA_NMDA2_Behabadi.o epsp.o kv.o na.o
