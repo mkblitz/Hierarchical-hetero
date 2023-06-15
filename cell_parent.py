@@ -5,9 +5,6 @@ import matplotlib as mpl
 import matplotlib.pyplot as plt
 import numpy as np
 import utils
-from cycler import cycler
-mpl.rcParams['axes.prop_cycle'] = cycler(color='bgrcyk')
-from scipy.optimize import curve_fit
 
 class cell_parent():
     def __init__(self):
