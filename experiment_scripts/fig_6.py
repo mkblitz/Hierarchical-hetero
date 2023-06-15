@@ -4,7 +4,6 @@ import numpy as np
 path_parent = os.path.dirname(os.getcwd())
 os.chdir(path_parent)
 sys.path.append(path_parent)
-
 import bams_peak_ca_plus_plasticity as bpc
 
 max_synapses = 40
