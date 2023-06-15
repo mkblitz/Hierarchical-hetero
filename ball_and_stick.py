@@ -2,7 +2,6 @@ from __future__ import division
 import sys
 from neuron import h
 import cell_parent as cp
-import utils
 
 class stick_and_ball_model(cp.cell_parent):
     '''
