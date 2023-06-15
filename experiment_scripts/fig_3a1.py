@@ -6,7 +6,6 @@ os.chdir(path_parent)
 sys.path.append(path_parent)
 import plot_functions as pf
 import matplotlib.pyplot as plt
-
 import Calcium_plasticity_model_run as cpmr
 
 sim_time = 1000
