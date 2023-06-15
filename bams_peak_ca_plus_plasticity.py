@@ -9,10 +9,7 @@ import matplotlib.pyplot as plt
 import utils
 from matplotlib import cm 
 import matplotlib.gridspec as gridspec
-import time
 import matplotlib.colors as colors
-import math 
-from mpl_toolkits.axes_grid1.inset_locator import inset_axes
 
 sim_time = 200
 dt = 0.1
