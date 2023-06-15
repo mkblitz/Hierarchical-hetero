@@ -9,8 +9,6 @@ import plot_functions as pf
 import utils
 import L5PC
 plt.ion()
-import time
-import winsound
 from matplotlib.pyplot import cm
 
 '''
@@ -18,9 +16,8 @@ single: for a single run, but you can control number of synapses, and nuber of s
 multiple: check one synapse, but for many different weights
 multiple_distances: check multiple synapses each with multiple weights
 '''
-t_initial = time.time()
 
-dt = 0.1#0.1
+dt = 0.1
 
 clamp_type = None
 e_syn_locations = None
