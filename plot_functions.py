@@ -1,8 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
-from cmath import nan
 import utils
-from scipy.fft import fft, ifft
 plt.ion()
 import string
 from scipy.ndimage import gaussian_filter1d
