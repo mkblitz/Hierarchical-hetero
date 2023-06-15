@@ -12,7 +12,6 @@ import matplotlib.gridspec as gridspec
 import time
 import matplotlib.colors as colors
 import math 
-import winsound
 from mpl_toolkits.axes_grid1.inset_locator import inset_axes
 
 sim_time = 200
@@ -207,7 +206,6 @@ def run_experiment(max_synapses, syn_branches, num_of_sections = 15, branch_L = 
                     for j in range(len(active_synapses_vec)):
                             ax.text(j, i, active_synapses_vec[-1-i]+active_synapses_vec[j], **kws)
     
-    winsound.Beep(1000,200)
     print('end')
         
     
