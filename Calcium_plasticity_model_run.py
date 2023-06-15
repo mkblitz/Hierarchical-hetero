@@ -5,7 +5,6 @@ import matplotlib.pyplot as plt
 import utils
 from matplotlib import cm 
 import matplotlib.gridspec as gridspec
-import time
 import matplotlib.colors as colors
 import math 
 import winsound
