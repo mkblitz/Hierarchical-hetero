@@ -6,8 +6,6 @@ import utils
 from matplotlib import cm 
 import matplotlib.gridspec as gridspec
 import matplotlib.colors as colors
-import math 
-import winsound
 
 sim_time = 1000
 dt = 0.5
